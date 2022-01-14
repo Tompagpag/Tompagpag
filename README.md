@@ -1,6 +1,9 @@
-### Hi 👋, I'm Tom Paganel
+## Hi 👋, I'm Tom Paganel
 
-# A passionate fullstack developer from Paris, France
+#### A passionate fullstack developer from Paris, France
+
+- 🔭 I’m currently working on https://www.family-schedule.co.uk/
+- 🌱 I’m currently improving my skills in **Ruby on rails** and **Stimulus**(JavaScript framework)
 
 <!--
 **Tompagpag/Tompagpag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
