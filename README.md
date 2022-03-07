@@ -1,4 +1,4 @@
-## Hi 👋, I'm Tom Paganel
+## Hi 👋, I'm Tom
 
 #### A passionate fullstack developer from Paris, France
 
