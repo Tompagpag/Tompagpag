@@ -2,7 +2,7 @@
 
 #### A passionate fullstack developer from Paris, France
 
-- 🔭 I’m currently working on https://www.family-schedule.co.uk/
+- 🔭 I’m currently working on a web application to help cookers to calculate their cost price
 - 🌱 I’m currently improving my skills in **Ruby on rails** and **Stimulus**(JavaScript framework)
 
 <!--
