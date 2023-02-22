@@ -1,9 +1,11 @@
 ## Hi 👋, I'm Tom
 
-#### A passionate fullstack developer from Paris, France
+#### A passionate fullstack developer from Paris
 
 - 🔭 I’m currently working on a web application to help cookers to calculate their cost price
-- 🌱 I’m currently improving my skills in **Ruby on rails** and **Stimulus**(JavaScript framework)
+- 🌱 I’m currently improving my skills in **Typescript** and **Tailwind**(CSS framework)
+- 💻 I already have some skills in **NodeJS**, **NestJS**, **Ruby on Rails**, **React**, **Stimulus**, **Docker** ...
+- 📫 How to reach me: WIP
 
 <!--
 **Tompagpag/Tompagpag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
