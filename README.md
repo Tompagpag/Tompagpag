@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Tailwind**
 
-- 💻 I already have some skills in **NodeJS, NestJS, Ruby on Rails, React, Stimulus, Docker ...**
+- 💻 I already have some skills in **NodeJS, Ruby on Rails, React, Stimulus, Docker ...**
 
 - 📫 How to reach me **WIP**
 
